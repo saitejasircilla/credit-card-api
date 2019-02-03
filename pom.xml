@@ -10,7 +10,7 @@
 
 	<name>credit-card-api</name>
 	<description>Credit Card API Spring Boot Application</description>
-	<url>https://github.com/jonyfs/credit-card-api</url>
+	<url>https://github.com/saitejasircilla/credit-card-api</url>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -33,9 +33,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git@github.com:jonyfs/credit-card-api.git</connection>
-		<url>scm:git:git@github.com:jonyfs/credit-card-api.git</url>
-		<developerConnection>scm:git:git@github.com:jonyfs/credit-card-api.git</developerConnection>
+		<connection>scm:git:git@github.com:saitejasircilla/credit-card-api.git</connection>
+		<url>scm:git:git@github.com:saitejasircilla/credit-card-api.git</url>
+		<developerConnection>scm:git:git@github.com:saitejasircilla/credit-card-api.git</developerConnection>
 	</scm>
 
 	<dependencies>
